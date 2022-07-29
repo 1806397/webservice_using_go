@@ -39,5 +39,13 @@
     "pricePerUnit":"401.26",
     "quantityOnHand":5901,
     "productName":"clothing"
+},{
+    "productID":6,
+    "manufactured":"Hessel,Schimmel and Feeney",
+    "sku":"q0L65sdvjobsvbn",
+    "upc":"111730000032",
+    "pricePerUnit":"402.34",
+    "quantityOnHand":5905,
+    "productName":""
 }
 ]

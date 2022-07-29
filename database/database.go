@@ -6,6 +6,7 @@ import (
 	"time"
 )
 
+//hello
 var DbConn *sql.DB
 
 func SetupDatabase() {
