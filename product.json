@@ -23,5 +23,13 @@
     "pricePerUnit":"436.26",
     "quantityOnHand":5905,
     "productName":"lamp shade"
+},{
+    "productID":4,
+    "manufactured":"Swaniawski,Bartol and Bruen",
+    "sku":"q0L657cjo",
+    "upc":"111730000001",
+    "pricePerUnit":"400.26",
+    "quantityOnHand":5907,
+    "productName":"cloth"
 }
 ]
